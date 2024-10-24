@@ -57,5 +57,5 @@ entry_email.grid(row=3, column=1, padx=10, pady=5)
 register_button = tk.Button(root, text="Register", command=register)
 register_button.grid(row=4, column=0, columnspan=2, pady=10)
 
-# Start the main loop
+# Start the main loop branches
 root.mainloop()
